@@ -1,3 +1,7 @@
+---
+layout: minimal
+---
+
 ![Phyx](/images/Phyx_WH_300.png)
 
 Small Belgian company that does contract and open-source work for hire.
