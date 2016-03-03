@@ -194,6 +194,10 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.roundedimg {
+border-radius: 15px;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
