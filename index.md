@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [FABLAB_BADGE](http://phyx.be/FABLAB_BADGE)
+DIY Kit to use for a soldering workshop with kids.
+![FABLAB_BADGE_00](https://raw.githubusercontent.com/phyx-be/FABLAB_BADGE/master/FABLAB_BADGE_00/3D_VIEW_TOP.png)
+
 ## [FABLAB_BOT](http://phyx.be/FABLAB_BOT)
 DIY kit for an USB powered vibration robot.
 ![FABLAB_BOT_01](https://raw.githubusercontent.com/phyx-be/FABLAB_BOT/master/FABLAB_BOT_01/3D_VIEW_TOP.png)
