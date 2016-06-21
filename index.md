@@ -4,9 +4,17 @@ layout: minimal
 
 # Portfolio
 
+## [RPI_HAT_FLASH](http://phyx.be/RPI_HAT_FLASH)
+A flash ring for your Raspberry Pi.
+![RPI_HAT_FLASH_00](https://raw.githubusercontent.com/phyx-be/RPI_HAT_FLASH/master/RPI_HAT_FLASH_00/3D_VIEW_TOP.png)
+
+## [RPI_HAT_AMP](http://phyx.be/RPI_HAT_AMP)
+A Class-D amplifier for your Raspberry Pi
+![RPI_HAT_AMP_01](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_01/3D_VIEW_TOP.png)
+
 ## [FABLAB_BADGE](http://phyx.be/FABLAB_BADGE)
 DIY Kit to use for a soldering workshop with kids.
-![FABLAB_BADGE_00](https://raw.githubusercontent.com/phyx-be/FABLAB_BADGE/master/FABLAB_BADGE_00/3D_VIEW_TOP.png)
+![FABLAB_BADGE_01](https://raw.githubusercontent.com/phyx-be/FABLAB_BADGE/master/FABLAB_BADGE_01/3D_VIEW_TOP.png)
 
 ## [FABLAB_BOT](http://phyx.be/FABLAB_BOT)
 DIY kit for an USB powered vibration robot.
@@ -14,7 +22,7 @@ DIY kit for an USB powered vibration robot.
 
 ## [ESP12_RGBW](http://phyx.be/ESP12_RGBW)
 An ESP12 based RGBW light module
-![ESP12_RGBW_00_T](https://raw.githubusercontent.com/phyx-be/ESP12_RGBW/master/ESP12_RGBW_00/3D_VIEW_TOP.png)
+![ESP12_RGBW_01_T](https://raw.githubusercontent.com/phyx-be/ESP12_RGBW/master/ESP12_RGBW_01/3D_VIEW_TOP.png)
 
 ## [ESP12_DEV](http://phyx.be/ESP12_DEV)
 A development board for the ESP12 and ESP12E WiFi modules.
