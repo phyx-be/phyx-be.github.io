@@ -22,7 +22,7 @@ DIY kit for an USB powered vibration robot.
 
 ## [ESP12_RGBW](http://phyx.be/ESP12_RGBW)
 An ESP12 based RGBW light module
-![ESP12_RGBW_01_T](https://raw.githubusercontent.com/phyx-be/ESP12_RGBW/master/ESP12_RGBW_01/3D_VIEW_TOP.png)
+[![ESP12_RGBW_01_T](https://raw.githubusercontent.com/phyx-be/ESP12_RGBW/master/ESP12_RGBW_01/3D_VIEW_TOP.png)](http://phyx.be/ESP12_RGBW)
 
 ## [ESP12_DEV](http://phyx.be/ESP12_DEV)
 A development board for the ESP12 and ESP12E WiFi modules.
