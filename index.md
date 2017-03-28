@@ -14,7 +14,7 @@ A flash ring for your Raspberry Pi.
 
 ## [RPI_HAT_AMP](http://phyx.be/RPI_HAT_AMP)
 A Class-D amplifier for your Raspberry Pi
-[![RPI_HAT_AMP_01](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_01/3D_VIEW_TOP.png)](http://phyx.be/RPI_HAT_AMP)
+[![RPI_HAT_AMP_01](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_02/3D_VIEW_TOP.PNG)](http://phyx.be/RPI_HAT_AMP)
 
 ## [FABLAB_BADGE](http://phyx.be/FABLAB_BADGE)
 DIY Kit to use for a soldering workshop with kids.
