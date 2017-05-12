@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [Serqet_FS_U](http://phyx.be/Serqet_FS_U)
+LS and FS USB Isolator.
+[![Serqet_FS_U_00_TOP](https://raw.githubusercontent.com/phyx-be/Serqet_FS_U/master/Serqet_FS_U_00/3D_VIEW_TOP.PNG)](http://phyx.be/Serqet_FS_U)
+
 ## [FM_RADIO](http://phyx.be/FM_RADIO)
 A low cost, easy to use FM radio.
 [![AUDIO_FM_LC_00_TOP](https://raw.githubusercontent.com/phyx-be/FM_RADIO/master/hw/AUDIO_FM_LC_00/3D_VIEW_TOP.PNG)](http://phyx.be/FM_RADIO)
