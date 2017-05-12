@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [RPI_ZERO_LED_RING](http://phyx.be/RPI_ZERO_LED_RING)
+A metal core LED ring that fits the RPi Zero and Rpi Camera.
+[![RPI_ZERO_LED_RING_00_TOP](https://raw.githubusercontent.com/phyx-be/RPI_ZERO_LED_RING/master/RPI_ZERO_LED_RING_00/3D_VIEW_TOP.PNG)](http://phyx.be/RPI_ZERO_LED_RING)
+
 ## [Serqet_FS_U](http://phyx.be/Serqet_FS_U)
 LS and FS USB Isolator.
 [![Serqet_FS_U_01_TOP](https://raw.githubusercontent.com/phyx-be/Serqet_FS_U/master/Serqet_FS_U_01/3D_VIEW_TOP.PNG)](http://phyx.be/Serqet_FS_U)
