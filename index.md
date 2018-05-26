@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [Fri3d_Camp_Badge_2018](https://github.com/Fri3dCamp/badge)
+A badge based around the ESP32 for Fri3d Camp 2018.
+[![FRI3D_CAMP_BADGE_2018_TOP](https://raw.githubusercontent.com/Fri3dCamp/badge/master/media/Fri3dBadge_2018_00_Front.png)](https://github.com/Fri3dCamp/badge)
+
 ## [RPI_ZERO_LED_RING](https://phyx.be/RPI_ZERO_LED_RING)
 A metal core LED ring that fits the RPi Zero and Rpi Camera.
 [![RPI_ZERO_LED_RING_00_TOP](https://raw.githubusercontent.com/phyx-be/RPI_ZERO_LED_RING/master/RPI_ZERO_LED_RING_00/3D_VIEW_TOP.PNG)](http://phyx.be/RPI_ZERO_LED_RING)
