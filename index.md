@@ -4,7 +4,7 @@ layout: minimal
 
 # Portfolio
 
-## [Fri3d_Camp_Badge_2018](https://github.com/Fri3dCamp/badge)
+## [Ph0xx, The Fri3d Camp Badge of 2018](https://github.com/Fri3dCamp/badge)
 A badge based around the ESP32 for Fri3d Camp 2018.
 [![FRI3D_CAMP_BADGE_2018_TOP](https://raw.githubusercontent.com/Fri3dCamp/badge/master/media/Fri3dBadge_2018_00_Front.png)](https://github.com/Fri3dCamp/badge)
 
