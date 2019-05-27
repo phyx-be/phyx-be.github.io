@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [Mini-Ph0xx, The Fri3d Camp solder challenge](https://github.com/Fri3dCamp/badge)
+A kid friendly solderchallenge made for the [Mini Makerfaire in Gent](https://www.makerfairegent.be) of which a thousand where soldered by attendees.
+[![FRI3D_Mini_Ph0xx](https://github.com/Fri3dCamp/mini-ph0xx/raw/master/media/Mini-Ph0xx_banner.jpg)](https://github.com/Fri3dCamp/mini-ph0xx)
+
 ## [Ph0xx, The Fri3d Camp Badge of 2018](https://github.com/Fri3dCamp/badge)
 A badge based around the ESP32 for Fri3d Camp 2018.
 [![FRI3D_CAMP_BADGE_2018_TOP](https://raw.githubusercontent.com/Fri3dCamp/badge/master/media/Fri3dBadge_2018_00_Front.png)](https://github.com/Fri3dCamp/badge)
