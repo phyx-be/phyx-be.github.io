@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [16Ch PWM Power](https://github.com/phyx-be/16ch_pwm_power)
+16 powerful PWM channels with an I2C interface.
+![16CH_PWM_POWER_00](https://raw.githubusercontent.com/phyx-be/16CH_PWM_POWER/master/16CH_PWM_POWER_00/16Ch_PWM_POWER_00_PHOTO.PNG)
+
 ## [Mini-Ph0xx, The Fri3d Camp solder challenge](https://github.com/Fri3dCamp/badge)
 A kid friendly solderchallenge made for the [Mini Makerfaire in Gent](https://www.makerfairegent.be) of which a thousand where soldered by attendees.
 [![FRI3D_Mini_Ph0xx](https://github.com/Fri3dCamp/mini-ph0xx/raw/master/media/Mini-Ph0xx_banner.jpg)](https://github.com/Fri3dCamp/mini-ph0xx)
@@ -17,7 +21,7 @@ A metal core LED ring that fits the RPi Zero and Rpi Camera.
 [![RPI_ZERO_LED_RING_00_TOP](https://raw.githubusercontent.com/phyx-be/RPI_ZERO_LED_RING/master/RPI_ZERO_LED_RING_00/3D_VIEW_TOP.PNG)](http://phyx.be/RPI_ZERO_LED_RING)
 
 ## [Serqet_FS_U](https://phyx.be/Serqet_FS_U)
-LS and FS USB Isolator.
+Low Speed and Full Speed USB Isolator.
 [![Serqet_FS_U_01_TOP](https://raw.githubusercontent.com/phyx-be/Serqet_FS_U/master/Serqet_FS_U_01/3D_VIEW_TOP.PNG)](http://phyx.be/Serqet_FS_U)
 
 ## [FM_RADIO](https://phyx.be/FM_RADIO)
