@@ -4,9 +4,9 @@ layout: minimal
 
 # Portfolio
 
-## [16Ch PWM Power](https://github.com/phyx-be/16ch_pwm_power)
+## [16Ch PWM Power](http://phyx.be/16CH_PWM_POWER)
 16 powerful PWM channels with an I2C interface.
-[![16CH_PWM_POWER_00](https://raw.githubusercontent.com/phyx-be/16CH_PWM_POWER/master/16CH_PWM_POWER_00/16Ch_PWM_POWER_00_PHOTO.PNG)](https://github.com/phyx-be/16ch_pwm_power)
+[![16CH_PWM_POWER_00](https://raw.githubusercontent.com/phyx-be/16CH_PWM_POWER/master/16CH_PWM_POWER_00/16Ch_PWM_POWER_00_PHOTO.PNG)](http://phyx.be/16CH_PWM_POWER)
 
 ## [Mini-Ph0xx, The Fri3d Camp solder challenge](https://github.com/Fri3dCamp/badge)
 A kid friendly solderchallenge made for the [Mini Makerfaire in Gent](https://www.makerfairegent.be) of which a thousand where soldered by attendees.
