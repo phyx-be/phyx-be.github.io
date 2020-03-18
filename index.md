@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [Raspberry Pi PCM5102A DAC](http://phyx.be/RPI_FEZ_DAC_PCM5102A)
+Small sized Raspberry Pi compatible DAC so you can easily get high quality audio from the Pi.
+[![RPI_FEZ_DAC_PCM5102A](https://github.com/phyx-be/RPI_FEZ_DAC_PCM5102A/blob/master/RPI_FEZ_DAC_00/RPI_FEZ_DAC_00_PHOTO.png?raw=true)](http://phyx.be/RPI_FEZ_DAC_PCM5102A)
+
 ## [16Ch PWM Power](http://phyx.be/16CH_PWM_POWER)
 16 powerful PWM channels with an I2C interface.
 [![16CH_PWM_POWER_00](https://raw.githubusercontent.com/phyx-be/16CH_PWM_POWER/master/16CH_PWM_POWER_00/16Ch_PWM_POWER_00_PHOTO.PNG)](http://phyx.be/16CH_PWM_POWER)
@@ -16,7 +20,7 @@ A kid friendly solderchallenge made for the [Mini Makerfaire in Gent](https://ww
 A badge based around the ESP32 for Fri3d Camp 2018.
 [![FRI3D_CAMP_BADGE_2018_TOP](https://raw.githubusercontent.com/Fri3dCamp/badge/master/media/Fri3dBadge_2018_00_Front.png)](https://github.com/Fri3dCamp/badge)
 
-## [RPI_ZERO_LED_RING](https://phyx.be/RPI_ZERO_LED_RING)
+## [Raspberry Pi Zero LED Ring](https://phyx.be/RPI_ZERO_LED_RING)
 A metal core LED ring that fits the RPi Zero and Rpi Camera.
 [![RPI_ZERO_LED_RING_00_TOP](https://raw.githubusercontent.com/phyx-be/RPI_ZERO_LED_RING/master/RPI_ZERO_LED_RING_00/3D_VIEW_TOP.PNG)](http://phyx.be/RPI_ZERO_LED_RING)
 
@@ -28,11 +32,11 @@ Low Speed and Full Speed USB Isolator.
 A low cost, easy to use FM radio.
 [![AUDIO_FM_LC_01_TOP](https://raw.githubusercontent.com/phyx-be/FM_RADIO/master/hw/AUDIO_FM_LC_01/3D_VIEW_TOP.PNG)](http://phyx.be/FM_RADIO)
 
-## [RPI_HAT_FLASH](https://phyx.be/RPI_HAT_FLASH)
+## [Raspberry Pi Hat Flash](https://phyx.be/RPI_HAT_FLASH)
 A flash ring for your Raspberry Pi.
 [![RPI_HAT_FLASH_00](https://raw.githubusercontent.com/phyx-be/RPI_HAT_FLASH/master/RPI_HAT_FLASH_00/3D_VIEW_TOP.png)](http://phyx.be/RPI_HAT_FLASH)
 
-## [RPI_HAT_AMP](https://phyx.be/RPI_HAT_AMP)
+## [Raspberry Pi Hat Amplifier](https://phyx.be/RPI_HAT_AMP)
 A Class-D amplifier for your Raspberry Pi
 [![RPI_HAT_AMP_01](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_02/3D_VIEW_TOP.PNG)](http://phyx.be/RPI_HAT_AMP)
 
