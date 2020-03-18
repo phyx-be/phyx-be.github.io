@@ -4,8 +4,8 @@ layout: minimal
 
 # Portfolio
 
-## [Team Scheire - Maarten Weyn opening credits](http://phyx.be/TEAM_SCHEIRE_MAARTEN)
-Quick boart which was used during the opening credits of the Belgian TV show Team Scheire.
+## [Team Scheire - Maarten Weyn](http://phyx.be/TEAM_SCHEIRE_MAARTEN)
+Quick board which was used during the opening credits of the Belgian TV show Team Scheire.
 [![TEAM_SCHEIRE_MAARTEN](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN/raw/master/Team_Scheire_Maarten_00/TEAM_SCHEIRE_MAARTEN_PHOTO.PNG?raw=true)](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN)
 
 ## [Raspberry Pi PCM5102A DAC](http://phyx.be/RPI_FEZ_DAC_PCM5102A)
