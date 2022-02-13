@@ -34,7 +34,7 @@ A metal core LED ring that fits the RPi Zero and Rpi Camera.
 
 ## [Serqet_FS_U](https://phyx.be/Serqet_FS_U)
 Low Speed and Full Speed USB Isolator.
-[![Serqet_FS_U_01_TOP](https://raw.githubusercontent.com/phyx-be/Serqet_FS_U/master/Serqet_FS_U_01/3D_VIEW_TOP.PNG)](http://phyx.be/Serqet_FS_U)
+[![Serqet_FS_U_01_TOP](https://raw.githubusercontent.com/phyx-be/Serqet_FS_U/master/Serqet_FS_U_00/PROTO2_nobg.png)](http://phyx.be/Serqet_FS_U)
 
 ## [FM_RADIO](https://phyx.be/FM_RADIO)
 A low cost, easy to use FM radio.
