@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [Space Shuttle Discovery Solder Kit](http://phyx.be/STS)
+Kit card style solder kit based on the Space Shuttle Discovery.
+[![STS_DISCOVERY](https://raw.githubusercontent.com/phyx-be/STS/master/media/STS_00_noBG.png)](http://phyx.be/STS)
+
 ## [Timeblaster, The Fri3d Camp lasertag blaster](https://github.com/Fri3dCamp/timeblaster-2020)
 ATmega328p based solder kit which can be used in conjuction with the [Fri3d Camp](https://fri3d.be/) badge or as standalone lastertag gun.
 [![FRI3D_CAMP_TIMEBLASTER_2020](https://raw.githubusercontent.com/Fri3dCamp/timeblaster-2020/master/media/Time_Blaster_00_FULL_noBG.png)](https://github.com/Fri3dCamp/timeblaster-2020)
