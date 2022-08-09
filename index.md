@@ -4,6 +4,18 @@ layout: minimal
 
 # Portfolio
 
+## [Fri3d Camp Badge 2022](https://github.com/Fri3dCamp/badge-2020)
+The badge for [Fri3d Camp 2022](https://fri3d.be/), based around the ESP32 and a nice 240x240 LCD display.
+[![Fri3d Badge 2022](https://github.com/Fri3dCamp/badge-2020/blob/master/media/Badge_02_Front_NoBG.png?raw=true)](https://github.com/Fri3dCamp/badge-2020)
+
+## [Fri3d Camp GameOn](https://github.com/Fri3dCamp/gameon-2020)
+One of the addons for the [Fri3d Camp Badge of 2022](https://github.com/Fri3dCamp/badge-2020) which transforms your badge in a handhald gaming console.
+[![Fri3d Badge 2022](https://github.com/Fri3dCamp/gameon-2020/blob/main/media/GameOn_00_noBG.png?raw=true)](https://github.com/Fri3dCamp/gameon-2020)
+
+## [Fri3d Camp GameOn](https://github.com/phyx-be/Fri3d_Sweet4x4)
+One of the addons for the [Fri3d Camp Badge of 2022](https://github.com/Fri3dCamp/badge-2020) which transforms your badge in a Bluetooth keypad.
+[![Fri3d Badge 2022](https://github.com/phyx-be/Fri3d_Sweet4x4/blob/main/media/Fully_Assembled_NoBG.png?raw=true)](https://github.com/phyx-be/Fri3d_Sweet4x4)
+
 ## [Space Shuttle Discovery Solder Kit](http://phyx.be/STS)
 Kit card style solder kit based on the Space Shuttle Discovery.
 [![STS_DISCOVERY](https://raw.githubusercontent.com/phyx-be/STS/master/media/STS_00_noBG.png)](http://phyx.be/STS)
