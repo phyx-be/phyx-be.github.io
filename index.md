@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [Fri3d Camp 2022 Thanks](http://phyx.be/Fri3d_2022_THX/)
+As a thank you for all the volunteers at [Fri3d Camp 2022](https://fri3d.be/), we created this small SAO.
+[![Fri3d 2022 Thanks](https://github.com/phyx-be/Fri3d_2022_THX/blob/main/media/thx_noBG.png?raw=true)](http://phyx.be/Fri3d_2022_THX/)
+
 ## [Fri3d Camp Badge 2022](https://github.com/Fri3dCamp/badge-2020)
 The badge for [Fri3d Camp 2022](https://fri3d.be/), based around the ESP32 and a nice 240x240 LCD display.
 [![Fri3d Badge 2022](https://github.com/Fri3dCamp/badge-2020/blob/master/media/Badge_02_Front_NoBG.png?raw=true)](https://github.com/Fri3dCamp/badge-2020)
