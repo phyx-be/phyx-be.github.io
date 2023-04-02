@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [Piano Solder Kit](http://phyx.be/PIANO_KIT)
+Easy to solder kit in the shape of a piano.
+[![PIANO_KIT](https://raw.githubusercontent.com/phyx-be/PIANO_KIT/master/media/GRAND_PIANO_NOBG.png)](http://phyx.be/PIANO_KIT)
+
 ## [Fri3d Camp 2022 Thanks](http://phyx.be/Fri3d_2022_THX/)
 As a thank you for all the volunteers at [Fri3d Camp 2022](https://fri3d.be/), we created this small SAO.
 [![Fri3d 2022 Thanks](https://github.com/phyx-be/Fri3d_2022_THX/blob/main/media/thx_noBG.png?raw=true)](http://phyx.be/Fri3d_2022_THX/)
