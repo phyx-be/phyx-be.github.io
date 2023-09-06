@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [EDGAR - PoE to EtherCAT P Module](http://phyx.be/EDGAR)
+EDGAR is a PoE to EtherCAT P module with internal eFuses for splitting the power rails.
+[![EDGAR](https://phyx.be/EDGAR/media/EDGAR_Top.png)](http://phyx.be/EDGAR)
+
 ## [Piano Solder Kit](http://phyx.be/PIANO_KIT)
 Easy to solder kit in the shape of a piano.
 [![PIANO_KIT](https://raw.githubusercontent.com/phyx-be/PIANO_KIT/master/media/GRAND_PIANO_NOBG.png)](http://phyx.be/PIANO_KIT)
