@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [CECILIA - Always-on Boost](http://phyx.be/CECILIA)
+CECILIA is an always-on boost convertor for lithium battery power sources.
+[![CECILIA](https://phyx.be/CECILIA/media/CECILIA_00.png)](http://phyx.be/CECILIA)
+
 ## [EDGAR - PoE to EtherCAT P Module](http://phyx.be/EDGAR)
 EDGAR is a PoE to EtherCAT P module with internal eFuses for splitting the power rails.
 [![EDGAR](https://phyx.be/EDGAR/media/EDGAR_Top.png)](http://phyx.be/EDGAR)
