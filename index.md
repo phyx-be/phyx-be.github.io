@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [LANA TNY - CH32V203 breakout board](http://phyx.be/LANA_TNY)
+LANA TNY is an [Adafruit QT Py](https://www.adafruit.com/category/595) and [Seeed studio XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) compatible breakout board for the [WCH CH32V203](https://www.wch-ic.com/products/CH32V203.html) RISC-V microcontroller.
+![LANA TNY 01](https://phyx.be/LANA_TNY/media/LANA_01.png)](http://phyx.be/LANA_TNY)
+
 ## [CECILIA - Always-on Boost](http://phyx.be/CECILIA)
 CECILIA is an always-on boost convertor for lithium battery power sources.
 [![CECILIA](https://phyx.be/CECILIA/media/CECILIA_00.png)](http://phyx.be/CECILIA)
