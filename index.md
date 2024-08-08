@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [RICK TNY - RP2350A breakout board](http://phyx.be/RICK_TNY)
+LANA TNY is an [Adafruit QT Py](https://www.adafruit.com/category/595) and [Seeed studio XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) compatible breakout board for the [Raspberry Pi RP2350A](https://www.raspberrypi.com/) microcontroller.
+![RICK TNY](https://phyx.be/RICK_TNY/media/top.png)](http://phyx.be/RICK_TNY)
+
 ## [LANA TNY - CH32V203 breakout board](http://phyx.be/LANA_TNY)
 LANA TNY is an [Adafruit QT Py](https://www.adafruit.com/category/595) and [Seeed studio XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) compatible breakout board for the [WCH CH32V203](https://www.wch-ic.com/products/CH32V203.html) RISC-V microcontroller.
 ![LANA TNY 01](https://phyx.be/LANA_TNY/media/LANA_01.png)](http://phyx.be/LANA_TNY)
