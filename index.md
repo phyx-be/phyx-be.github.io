@@ -4,6 +4,18 @@ layout: minimal
 
 # Portfolio
 
+## [Fri3d Camp 2024 Badge ](https://github.com/Fri3dCamp/badge_2024_hw)
+The badge for [Fri3d Camp 2024](https://fri3d.be/), based around the ESP32-S3 and a nice LCD display with rounded edges.
+[![Fri3d Badge 2024](https://github.com/Fri3dCamp/badge_2024_hw/blob/main/Media/Badge_Front.png?raw=true)](https://github.com/Fri3dCamp/badge_2024_hw)
+
+## [Fri3d Camp 2024 Communicator ](https://github.com/Fri3dCamp/communicator_2024)
+One of the add-ons for the [Fri3d Camp 2024](https://fri3d.be/) badge is a full QWERTY keyboard by [Solder Party](https://www.solder.party/).
+[![Fri3d Communicator 2024](https://github.com/Fri3dCamp/communicator_2024/blob/main/Media/Finished.png?raw=true)](https://github.com/Fri3dCamp/communicator_2024)
+
+## [Fri3d Camp 2024 Blaster](https://github.com/Fri3dCamp/blaster_2024)
+IR blaster sodlerkit based around the [LANA TNY](http://phyx.be/LANA_TNY) in the shape of a flamingo. This is another exclusive for [Fri3d Camp 2024](https://fri3d.be/).
+[![Fri3d Blaster 2024](https://github.com/Fri3dCamp/blaster_2024/blob/main/Media/Flamingo_00.png?raw=true)](https://github.com/Fri3dCamp/blaster_2024)
+
 ## [RICK TNY - RP2350A breakout board](http://phyx.be/RICK_TNY)
 LANA TNY is an [Adafruit QT Py](https://www.adafruit.com/category/595) and [Seeed studio XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) compatible breakout board for the [Raspberry Pi RP2350A](https://www.raspberrypi.com/) microcontroller.
 [![RICK TNY](https://phyx.be/RICK_TNY/media/top.png)](http://phyx.be/RICK_TNY)
