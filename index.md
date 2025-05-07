@@ -4,7 +4,11 @@ layout: minimal
 
 # Portfolio
 
-## [Fri3d Camp 2024 Badge ](https://github.com/Fri3dCamp/badge_2024_hw)
+## [Maker Faire Gent 2025 Solder Kit](http://phyx.be/MFG_2025)
+The Solder kit for [Maker Faire Gent 2025](https://www.makerfairegent.be/) was part of their maker trail during the event.
+[![Maker Faire Gent 2025](https://github.com/phyx-be/MFG_2025/blob/main/media/Assembled_NoBG.png?raw=true)](https://github.com/phyx-be/MFG_2025)
+
+## [Fri3d Camp 2024 Badge](https://github.com/Fri3dCamp/badge_2024_hw)
 The badge for [Fri3d Camp 2024](https://fri3d.be/), based around the ESP32-S3 and a nice LCD display with rounded edges.
 [![Fri3d Badge 2024](https://github.com/Fri3dCamp/badge_2024_hw/blob/main/Media/Badge_Front.png?raw=true)](https://github.com/Fri3dCamp/badge_2024_hw)
 
