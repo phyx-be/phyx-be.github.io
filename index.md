@@ -4,6 +4,10 @@ layout: minimal
 
 # Portfolio
 
+## [FAB25 Solder Kit](http://phyx.be/FAB25_BADGE)
+For the solder workshop given by [FabLab Leuven](https://fablab-leuven.be/) at [FAB25](https://fab25.fabevent.org/) we created a solder kit based on the logo of the event.
+[![FAB25](https://github.com/phyx-be/FAB25_BADGE/blob/main/media/PCB_00_front.png?raw=true)](https://github.com/phyx-be/FAB25_BADGE)
+
 ## [Maker Faire Gent 2025 Solder Kit](http://phyx.be/MFG_2025)
 The Solder kit for [Maker Faire Gent 2025](https://www.makerfairegent.be/) was part of their maker trail during the event.
 [![Maker Faire Gent 2025](https://github.com/phyx-be/MFG_2025/blob/main/media/Assembled_NoBG.png?raw=true)](https://github.com/phyx-be/MFG_2025)
