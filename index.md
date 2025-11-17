@@ -4,6 +4,11 @@ layout: minimal
 
 # Portfolio
 
+## [Reindeer Solder Kit](http://phyx.be/REINDEER)
+Christmas themed solder kit in the shape of Rudolph the Red-Noosed reindeer.
+[![REINDEER Solder Kit](https://phyx.be/REINDEER/media/reindeer_noBG.png)](https://github.com/phyx-be/REINDEER)
+
+
 ## [FAB25 Solder Kit](http://phyx.be/FAB25_BADGE)
 For the solder workshop given by [FabLab Leuven](https://fablab-leuven.be/) at [FAB25](https://fab25.fabevent.org/) we created a solder kit based on the logo of the event.
 [![FAB25](https://github.com/phyx-be/FAB25_BADGE/blob/main/media/PCB_00_front.png?raw=true)](https://github.com/phyx-be/FAB25_BADGE)
