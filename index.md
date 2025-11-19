@@ -5,7 +5,7 @@ layout: minimal
 # Portfolio
 
 ## [Reindeer Solder Kit](http://phyx.be/REINDEER)
-Christmas themed solder kit in the shape of Rudolph the Red-Noosed reindeer.
+Christmas themed solder kit in the shape of Rudolph the Red-Nosed reindeer.
 [![REINDEER Solder Kit](https://phyx.be/REINDEER/media/reindeer_noBG.png)](https://github.com/phyx-be/REINDEER)
 
 
