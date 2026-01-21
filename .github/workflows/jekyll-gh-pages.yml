@@ -11,7 +11,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -69,3 +69,41 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Publish to public branch
+  publish-branch:
+    name: Publish to public branch
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: public
+          path: .public
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v7
+        with:
+          name: public-build
+          path: _site
+
+      - name: Push to public branch
+        run: |
+          cd .public
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Remove old files and copy new build
+          git rm -rf .
+          cp -r ../_site/. .
+          git add .
+
+          # Only commit and push if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to deploy"
+          else
+            git commit -m "Deploy site"
+            git push origin public
+          fi
